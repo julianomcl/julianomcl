@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Full Stack web developer, currently, working with Node.js and React.js. I also work with Python for some specific applcations and had worked a few years with PHP. I am really an enthusiast of new technologies and so I am looking forward to contribute more to open source.
+I am a Full Stack web developer, currently, working with Node.js and React.js. I also work with Python for some specific applications and had worked a few years with PHP. I am really an enthusiast of new technologies and so I am looking forward to contribute more to open source.
